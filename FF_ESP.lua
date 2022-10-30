@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jadonbp/kF3g9A/main/BACKUP_FF_ESP.lua", true))()
